@@ -1,0 +1,18 @@
+#ManPage
+
+1.    Open console
+2.    Run executable file by using “./server”, where 3645 is port number.
+3.    Open a new console
+4.    Run executable client file by using “./client”
+5.    The game will start, Play the game.
+6.    You can run several consoles simultaneously and start playing game using command in step 4.
+
+Game description: 
+    The designed game is rock-paper-scissor; it is a player vs computer game.
+1.    You will be asked to input Players choice.
+2.    Whoever gets the best out of 3, 5, 7, or 9 which is chosen randomly will be termed as winner.
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////
+to run it write ./server
+and open one more console and write ./client
+this will allow you to play game, and more, if you want another game then open new console write ./client to run more games simultaneously.
