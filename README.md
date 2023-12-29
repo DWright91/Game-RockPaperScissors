@@ -69,3 +69,7 @@ statements as well as indenting the body of functions. Indentation should
 show the nesting level of the statements involved.
 • Include some in-line documentation to give a high level view of what the
 program and groups of statements is/are doing.
+
+Execution:
+![simultaneous_games](https://github.com/DWright91/Game-RockPaperScissors/assets/94549091/42951321-40f3-4554-a46c-9c16c94097dd)
+
